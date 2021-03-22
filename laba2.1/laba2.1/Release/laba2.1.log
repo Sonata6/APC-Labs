@@ -1,0 +1,9 @@
+﻿  laba2.1.cpp
+D:\my projects\apk\laba2.1\laba2.1\laba2.1.cpp(21,17): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+D:\my projects\apk\laba2.1\laba2.1\laba2.1.cpp(108,10): warning C4101: 'ltime': unreferenced local variable
+  Generating code
+  0 of 6 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  laba2.1.vcxproj -> D:\my projects\apk\laba2.1\Release\laba2.1.exe

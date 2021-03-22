@@ -1,0 +1,9 @@
+﻿  laba2.1.cpp
+D:\my projects\apk\laba2.1\laba2.1\laba2.1.cpp(19,17): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+D:\my projects\apk\laba2.1\laba2.1\laba2.1.cpp(78,9): warning C4102: 'cycle1': unreferenced label
+D:\my projects\apk\laba2.1\laba2.1\laba2.1.cpp(96,10): warning C4101: 'ltime': unreferenced local variable
+  laba2.1.obj : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  Finished generating code
+  laba2.1.vcxproj -> D:\my projects\apk\laba2.1\Debug\laba2.1.exe
